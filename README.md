@@ -32,7 +32,7 @@
 
 <!-- Repositórios em destaque -->
 ### 🌟 Repositórios em Destaque
-- [Meu Primeiro Repositório](//https://github.com/Guilherme-burle/Projeto_FP) - Um exemplo inicial de aprendizado e desenvolvimento.
+- [Meu Primeiro Repositório](https://www.github.com/Guilherme-burle/Projeto_FP) - Um exemplo inicial de aprendizado e desenvolvimento.
 
 ---
 
