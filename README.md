@@ -16,7 +16,6 @@
 - Desenvolvimento Full Stack;
 - Inteligência Artificial e Machine Learning;
 - Engenharia de Software;
-- Desenvolvimento de APIs e Microsserviços.
 
 <!-- Informações de contato -->
 ### 📫 Contato
