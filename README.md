@@ -21,7 +21,7 @@
 ### 📫 Contato
 - **E-mail:** [guiburle1320@gmail.com](mailto:guiburle1320@gmail.com)
 - **LinkedIn:** [linkedin.com/in/Guilherme-burle](https://www.linkedin.com/in/Guilherme-burle/)
-- **Portfólio:** [guilhermeburle.dev](https://guilhermeburle.dev)
+- **Portfólio:** [guilherme-burle.github.io](https://guilherme-burle.github.io/Portifolio/)
 
 <!-- Estatísticas do GitHub -->
 ### 📊 Estatísticas do GitHub
